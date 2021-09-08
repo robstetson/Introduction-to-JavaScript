@@ -191,15 +191,6 @@ if(user === 'scissors' && computer === 'paper'){
 }
 }
 
-
-
-
-
-
-
-
-
-
 /*🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀 Task 5 🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀*/
 
 //Metric Converter 
@@ -242,7 +233,8 @@ Using the annoyingSong function below do the following:
 
 function annoyingSong(number){
       return `${number} bottles of soda on the wall, ${number} bottles of soda, take one down pass it around ${number - 1} bottles of soda on the wall`;
-}
+  
+    }
 
 
 /*🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀 Task 7 🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀*/
@@ -291,8 +283,8 @@ HINT - try looking up the .includes() method
 */
 
 
-// function vowelCounter(/*add your code here*/) {
-//   /*add your code here*/
+// function vowelCounter(string) {
+  
 // }
 
 
